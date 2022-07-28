@@ -1,6 +1,5 @@
 # Aerosol-Regional-Impacts
-Code supporting "Geographically-resolved social cost of anthropogenic emissions accounting for both direct and climate-mediated effects," (2022, XXX)
-J. Burney, G. Persad, J. Proctor, E. Bendavid, M. Burke, S. Heft-Neal
+Code supporting analysis published in "Geographically-resolved social cost of anthropogenic emissions accounting for both direct and climate-mediated effects," (2022, Science Advances) by J. Burney, G. Persad, J. Proctor, E. Bendavid, M. Burke, S. Heft-Neal
 
 ## Overview
 
